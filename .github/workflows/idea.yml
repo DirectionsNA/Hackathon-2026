@@ -81,7 +81,7 @@ jobs:
             👋 Hi @${{ github.event.issue.user.login }}!  
             Thanks for submitting your **Directions North America 2026 Hackathon idea** 🎉  
 
-            If your Directions North America 2026 checks OK, you're officially part of the hackathon!  
+            If your Directions North America 2026 participation checks OK, you're officially part of the hackathon!  
             - 🕒 Submission received **on time** (before 14:30 EDT on Apr 29, 2026).  
             - 🚀 Development runs until **July 31, 2026**.  
             - 🏁 Finalization & submission on **August 1, 2026** (including demo video).  
